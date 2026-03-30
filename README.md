@@ -15,7 +15,7 @@
 ### ▶️ VM Setup Command
 
 ```bash
-bash https://raw.githubusercontent.com/mayankpatil1906/idx-vpsnew/refs/heads/main/vps.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/mayankpatil1906/idx-vpsnew/refs/heads/main/vps.sh
 ```
 
 ---
